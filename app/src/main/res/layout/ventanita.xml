@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="400dp"
+    android:layout_height="wrap_content"
+    android:background="#1D2550"
+    android:padding="15dp"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/cerrar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:text="X"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:layout_marginEnd="10dp"
+        android:inputType="text"
+        android:background="@drawable/circulo" />
+    <EditText
+        android:id="@+id/editexNombreV"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:hint="Nombre"
+        />
+
+    <EditText
+        android:id="@+id/editexApP_V"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:hint="Apellido Peterno"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/editexApeM_V"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        android:hint="Apellido Materno"
+        />
+
+    <EditText
+        android:id="@+id/editTextPhoneSinR"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="60dp"
+        android:background="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:gravity="center"
+        android:hint="numero"
+        android:inputType="phone" />
+
+    <Button
+        android:id="@+id/buttonRegistrarSinRegistro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:onClick="sinRegistros"
+        android:text="Entrar"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

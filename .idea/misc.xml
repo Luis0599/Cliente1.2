@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia 17 de abril 2021/Cliente12/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia 17 de abril 2021/Cliente12/app/src/main/res/layout/activity_main_recibir_presupuesto.xml" value="0.1796875" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia 17 de abril 2021/Cliente12/app/src/main/res/layout/activity_maps_trazar_mejor_ruta.xml" value="0.1796875" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia 18 de abril 2022/Cliente12/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia 18 de abril 2022/Cliente12/app/src/main/res/layout/activity_main_calcular_kerkly_mas_cercano.xml" value="0.1796875" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia 18 de abril 2022/Cliente12/app/src/main/res/layout/activity_main_coleccion_firebase.xml" value="0.1796875" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia 18 de abril 2022/Cliente12/app/src/main/res/layout/activity_main_consulta_sin_registro.xml" value="0.1796875" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia kerkly 02 de febrero 2022/Cliente12/app/src/main/res/layout/activity_main_calcular_kerkly_mas_cercano.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia kerkly 02 de febrero 2022/Cliente12/app/src/main/res/layout/activity_main_pagos.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia kerkly 02 de febrero 2022/Cliente12/app/src/main/res/layout/activity_main_recibir_presupuesto.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia kerkly 02 de febrero 2022/Cliente12/app/src/main/res/layout/activity_main_subir_comprobante_de_pago.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia kerkly 02 de febrero 2022/Cliente12/app/src/main/res/layout/activity_maps_trazar_mejor_ruta.xml" value="0.22" />
+        <entry key="..\:/Users/Luis Luis/Documents/copias kerkly/copia kerkly 02 de febrero 2022/Cliente12/app/src/main/res/layout/activity_maps_trazar_rutas.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/drawable/circulo.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_calcular_kerkly_mas_cercano.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_coleccion_firebase.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_consulta_sin_registro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_iniciar_sesion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_modificar_contrasena.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_recibir_presupuesto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_recuperar_correo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/activity_main_subir_comprobante_de_pago.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/modelo_presupuesto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/layout/ventanita.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/alfre/OneDrive/Documentos/Cliente12/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20185185185185187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

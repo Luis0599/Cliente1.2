@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cliente1.2</string>
+    <string name="title_activity_maps_trazar_rutas">MapsActivityTrazarRutas</string>
+    <string name="title_activity_maps_trazar_mejor_ruta">Mi Mapa</string>
+</resources>
